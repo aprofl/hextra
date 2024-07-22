@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "cc76be619e084865",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b3a9c4908f0c707",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d246fc31fb085ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DocEngr/About.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0413f2f402128a82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Script/코드 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9159dee33fef69ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9277c014b79ff36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af3539a30034cd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80d174fa98b75b82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "](image",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ba2f92b7133bd15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "faa6d440f9a5a3c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d9db4929c5b8f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a9b3a013b7289c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/Script/코드 정리.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8035983113486282",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/Script/코드 정리.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "631337960dd4b09c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cdcda995d0904e0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/Script/코드 정리.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "file-cleaner-redux:Clean files": false
+    }
+  },
+  "active": "0413f2f402128a82",
+  "lastOpenFiles": [
+    "StaticSite/MkDocs/BC3BAFC.tmp",
+    "StaticSite/MkDocs/BC38FFD.tmp",
+    "StaticSite/Hugo/BC3FADE.tmp",
+    "Blog/Intro/BC3F1B0.tmp",
+    "Obsidian/Script/_index.md",
+    "DocEngr/_index.md",
+    "Blog/Intro/StaticSite 배포플랫폼 선택.md",
+    "Obsidian/Script/Front Matter 추가.md",
+    "StaticSite/_index.md",
+    "StaticSite/MkDocs/_index.md",
+    "StaticSite/Intro/StaticSite란.md",
+    "StaticSite/Intro/_index.md",
+    "StaticSite/Hugo/_index.md",
+    "StaticSite/Hugo/config.toml/_index.md",
+    "StaticSite/Docusaurus/_index.md",
+    "StaticSite/Astro/_index.md",
+    "Obsidian/설정/_index.md",
+    "Obsidian/설정/Sync/_index.md",
+    "Obsidian/Tips/_index.md",
+    "Obsidian/Plugin/_index.md",
+    "Manual/Build/Tauri/_index.md",
+    "Manual/Build/Electron/_index.md",
+    "Blog/_index.md",
+    "Blog/배포/_index.md",
+    "Obsidian/Script/Front Matter 제거.md",
+    "Obsidian/Script/파일 정리.md",
+    "Obsidian/Script/코드 정리.md",
+    "Obsidian/Plugin/Templater.md",
+    "Blog/Intro/_index.md",
+    "Resources/image_20240608165739.png",
+    "Resources/image_20240523135004.png",
+    "Resources/image_20240523142348.png",
+    "Resources/image_20240523140103.png",
+    "Resources/Pasted image 20240523135756.png",
+    "Resources/Pasted image 20240523140702.png",
+    "Resources/image_20240619130438.png",
+    "Resources/image_20240619092807.png",
+    "Resources/image_20240617190055.png",
+    "Resources/image_20240612151535.png",
+    "StaticSite/Intro/_index.md.bak",
+    "StaticSite/Intro/StaticSite란.md.bak",
+    "StaticSite/Hugo/doks Theme/테마 계층 구조.md.bak",
+    "StaticSite/Hugo/이미지 참조.md.bak",
+    "StaticSite/Hugo/소스 폴더 참조.md.bak",
+    "StaticSite/Hugo/빌드 시 스크립트 실행.md.bak",
+    "Resources/Templates/_index.md.bak"
+  ]
+}

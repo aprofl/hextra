@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Aprofl'
+theme = "hextra"
+
+[[menu.main]]
+  name = "DocFlow"
+  url = "/docflow/about/about"
+# url = "/docs/1.0/prologue/introduction/"
+  weight = 10
+
+[[menu.main]]
+  name = ".Net"
+  url = "/dotNet/"
+  weight = 30
